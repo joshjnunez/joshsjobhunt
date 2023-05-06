@@ -1,0 +1,24 @@
+{
+  "name": "joshsjobhunt",
+  "version": "1.0.0",
+  "description": "A website I built to help me land a job.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshjnunez/joshsjobhunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshjnunez/joshsjobhunt/issues"
+  },
+  "homepage": "https://github.com/joshjnunez/joshsjobhunt#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
